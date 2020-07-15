@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "nombre": "Diego",
+      "telefono": "5582321129",
+      "empresa": "Ibm",
+      "correo": "diego3799@live.com.mx",
+      "id": 2
+    }
+  ]
+}
